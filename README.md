@@ -1,5 +1,6 @@
 # fraud_prediction
 Data Science project using Python. Build machine learning model  (XGBoost) to predict whether or not the tranksaction is fraudulent or not.
+Correctly classify 85.8 % of the data that were fraudulent, and classify 96 % of the data that were non fraudulent on the test set.
 
 Dataset:
 
