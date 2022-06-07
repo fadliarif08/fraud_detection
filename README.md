@@ -1,6 +1,6 @@
 # fraud_prediction
 Data Science project using Python. Build machine learning model  (XGBoost) to predict whether or not the tranksaction is fraudulent or not.
-Correctly classify 90 % of the data that were fraudulent, and classify 96 % of the data that were non fraudulent on the test set.
+Correctly classify 94.7 % of the data that were fraudulent, and classify 93.1 % of the data that were non fraudulent on the test set.
 
 The dataset of this project was downloaded from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud, contains transactions made by credit cards in September 2013 by European cardholders.This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
